@@ -1,0 +1,45 @@
+body{
+  /*text */
+  font-family:"Courier New";
+  font-size : 18px;
+  font-style: none;
+  font-weight: normal;
+  /* canvas */
+  background-color: PaleGreen;
+  background-image: none;
+  /* spacing*/
+  margin :0;
+  padding: 20px 20px 20px;
+}
+#wel{
+  /*text*/
+  font-family: "Avenir Next";
+
+  /*canvas*/
+  border-style: dotted;
+  bordwidth: 30px;
+}
+#sec{
+  /*canvas*/
+  background-color: black;
+  /*text*/
+  color: white;
+}
+#about{
+  /*canvas*/
+  padding: 50px;
+  border: 8px solid yellow;
+  /* border: 100px	#F0F8FF; */
+}
+#travel{
+  font-family:"Courier New"
+}
+
+#me {
+  margin: 25px 50px 75px 100px;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
